@@ -1,0 +1,10 @@
+.topNav {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.topNav a:hover {
+  cursor: pointer;
+  font-weight: 600;
+}
